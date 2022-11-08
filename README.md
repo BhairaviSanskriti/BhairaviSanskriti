@@ -1,7 +1,6 @@
 - :pray: Namaste, I’m Sanskriti.
-- 👀 I’m interested in DevOps, Web Development.
-- 🌱 I’m currently learning GOlang, GIT, Linux and Java.
-- 💞️ I’m looking to collaborate on beginner GOlang projects.
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently learning Kubernetes and Helm.
 - 📫 Contact me at bhairavi.sanskriti@gmail.com.
 
 <!---
