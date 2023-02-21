@@ -1,6 +1,5 @@
 - :pray: Namaste, I’m Sanskriti.
-- 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning Kubernetes and Helm.
+- 👀 I’m looking for job opportunities in DevOps.
 - 📫 Contact me at bhairavi.sanskriti@gmail.com.
 
 <!---
